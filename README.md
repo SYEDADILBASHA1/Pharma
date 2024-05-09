@@ -298,7 +298,7 @@ Publish the website in the LocalHost.
         <h1>Our Products</h1>
         <div class="card-deck">
           <div class="card">
-            <img src="i.jpg" class="card-img-top" alt="Product 1">
+            <img src="Screenshot (185).png" class="card-img-top" alt="Product 1">
             <div class="card-body">
               <h5 class="card-title">Product 1</h5>
               <p class="card-text">Everherb Karela Jamun Juice - Helps Maintains Healthy Sugar Levels -Helps In Weight Management - 1l.</p>
@@ -306,7 +306,7 @@ Publish the website in the LocalHost.
             </div>
           </div>
           <div class="card">
-            <img src="j.jpeg" class="card-img-top" alt="Product 2">
+            <img src="Screenshot (422).png" class="card-img-top" alt="Product 2">
             <div class="card-body">
               <h5 class="card-title">Product 2</h5>
               <p class="card-text">Calcimax Forte Plus Strip Of 30 Tablets.</p>
@@ -314,7 +314,7 @@ Publish the website in the LocalHost.
             </div>
           </div>
           <div class="card">
-            <img src="k.jpeg" class="card-img-top" alt="Product 3">
+            <img src="image3.png" class="card-img-top" alt="Product 3">
             <div class="card-body">
               <h5 class="card-title">Product 3</h5>
               <p class="card-text">Healthkart Calcium Tablets For Men & Women With Vitamin D3 For Complete Bone Health & Joint (60 No).</p>
